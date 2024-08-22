@@ -1,5 +1,5 @@
 
-Code Overview
+Code Overview:
 This code is designed to read soil moisture levels using a sensor, calculate the moisture percentage, and display the result on an LCD screen. It also prints the raw sensor value and the calculated percentage to the Serial Monitor for debugging or logging purposes.
 
 Workflow
